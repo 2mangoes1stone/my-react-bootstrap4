@@ -71,7 +71,7 @@ class App extends Component {
                 <strong>Disabled LINK!</strong>
             </Link>
           </Nav>
-        </div><br/>
+        </div><br/><br/>
 
         <div class="well">
           <BtnGroup>
@@ -85,7 +85,7 @@ class App extends Component {
               <strong>SUCCESS!</strong>
             </Button>
           </BtnGroup>
-        </div><br/>
+        </div><br/><br/>
 
         <div class="well">
           <Card>
@@ -103,6 +103,7 @@ class App extends Component {
             </CardBlock>
           </Card>
         </div>
+
       </div>
     );
   }
